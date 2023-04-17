@@ -1,10 +1,10 @@
-# itw-13-grid-challenge-template
+# itw-13-grid-challenge
 
 Repository for storing CSS Grid challenge template code.
 
 ## Author:
 
-justin@codespace
+Dingaan Nkosi
 
 
 ## Current Challenge:
